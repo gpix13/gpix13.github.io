@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: gpix13.github.io
 url: https://gpix13.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gpix13
-
+permalink: /:year/:month/:day/:title/
 # Build settings
 theme: minima
 plugins:
